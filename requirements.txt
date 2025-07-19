@@ -1,0 +1,5 @@
+Flask
+Flask-Bootstrap
+pytube
+requests 
+yt_dlp
